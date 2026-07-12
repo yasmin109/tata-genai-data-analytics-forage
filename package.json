@@ -1,0 +1,10 @@
+{
+  "name": "geldium-delinquency-project",
+  "version": "1.0.0",
+  "description": "Delinquency prediction EDA, modeling plan, stakeholder report, and agentic AI proposal deck for the Geldium (Forage) simulation",
+  "private": true,
+  "dependencies": {
+    "docx": "^9.0.0",
+    "pptxgenjs": "^4.0.1"
+  }
+}
